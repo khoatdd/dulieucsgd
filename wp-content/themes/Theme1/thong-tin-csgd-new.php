@@ -2521,6 +2521,7 @@ $('input[name="I10"]').on('change',function(){
 			// this.data.append('name','Khoa');
 			// console.log(this.data);
 		};
+		abc
 		Database.prototype = {
 			ajaxCall: function (fID) {
 				$.ajax({
